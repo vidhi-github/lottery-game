@@ -1,2 +1,2 @@
 # lottery-game
-Lottery-game built using React.
+Lottery-game built using React. 
